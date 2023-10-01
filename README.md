@@ -21,5 +21,5 @@ Not good result.
 ## TODO
 - Bug fixes
 - Integration with Oak-D
-- Implement pose filtering
+- Implement pose filtering (https://github.com/kotaroPurple/lie_solver)
 - Etc.
